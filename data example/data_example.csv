@@ -1,5 +1,5 @@
-﻿Region,documentid,stanzaid  (must in the sequential order of raw text),stage,code (use comma to separate)
-guangdong,mt1,st1,stage1,"ZA, HJ, ZZ"
-guangdong,mt1,st1,stage1,"ZA, HJ, ZZ"
-hongkong,mt2,st2,stage2,"LX, XS"
-hongkong,mt4,st3,stage3,"LX, HJ"
+﻿Region,documentid,stanzaid  (must in the sequential order of raw text),format,stage,code (use comma to separate)
+guangdong,mt1,st1,writing,stage1,"ZA, HJ, ZZ"
+guangdong,mt1,st1,oral,stage1,"ZA, HJ, ZZ"
+hongkong,mt2,st2,writing,stage2,"LX, XS"
+hongkong,mt4,st3,oral,stage3,"LX, HJ"
