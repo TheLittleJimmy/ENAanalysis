@@ -47,4 +47,4 @@ ENA creates network models by:
 2. Creating adjacency matrices to represent the connections between codes
 3. Using dimensionality reduction to represent networks in a low-dimensional space
 4. Visualizing the resulting networks to show how codes are connected 
-
+ 
